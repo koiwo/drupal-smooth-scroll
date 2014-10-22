@@ -1,0 +1,4 @@
+name = Smooth Scroll
+description = Provides a little script to make scrolling between anchors smoother
+package = Custom
+core = 7.x
